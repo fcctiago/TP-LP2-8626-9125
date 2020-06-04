@@ -1,0 +1,20 @@
+[
+  {
+    "NumUtente": 1243435,
+    "Nome": "Tiago Filipe Carvalho da Cruz",
+    "DataNasc": "1994-03-31T20:15:00",
+    "Peso": 80.0,
+    "Morada": "Rua Lino José Sousa Ferreira nº323",
+    "Altura": 1.71,
+    "Seguro": false
+  },
+  {
+    "NumUtente": 1373439,
+    "Nome": "Rosa Maria Macedo Carvalho e Cruz",
+    "DataNasc": "1956-04-11T10:30:00",
+    "Peso": 62.0,
+    "Morada": "Rua Lino José Sousa Ferreira nº323",
+    "Altura": 1.52,
+    "Seguro": true
+  }
+]

@@ -1,0 +1,20 @@
+<utentes>
+  <utente>
+    <numeroutente>1243435</numeroutente>
+    <nome>Tiago Filipe Carvalho da Cruz</nome>
+    <datanascimemnto>31-Mar-94 8:15:00 PM</datanascimemnto>
+    <peso>80</peso>
+    <altura>1.71</altura>
+    <morada>Rua Lino José Sousa Ferreira nº323</morada>
+    <seguro>Não</seguro>
+  </utente>
+  <utente>
+    <numeroutente>1373439</numeroutente>
+    <nome>Rosa Maria Macedo Carvalho e Cruz</nome>
+    <datanascimemnto>11-Apr-56 10:30:00 AM</datanascimemnto>
+    <peso>62</peso>
+    <altura>1.52</altura>
+    <morada>Rua Lino José Sousa Ferreira nº323</morada>
+    <seguro>Sim</seguro>
+  </utente>
+</utentes>
